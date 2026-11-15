@@ -9,7 +9,7 @@ UVM verification environment for a synchronous FIFO, built for the *Digital Veri
 - `FIFO_sequence_item / sequence / sequencer / driver / mon / agent / config .sv` – UVM agent
 - `FIFO_scoreboard.sv`, `FIFO_coverage.sv`, `FIFO_env.sv`, `FIFO_tb.sv`, `FIFO_top.sv`
 - `run.do`, `src_files.list` – QuestaSim run script and file list
-- `docs/Sync_FIFO_UVM_Verification_Report.pdf` – full verification report
+- Verification report PDF is present in the original ZIP archive but was not included in this GitHub push.
 
 ## Run (QuestaSim)
 ```tcl
